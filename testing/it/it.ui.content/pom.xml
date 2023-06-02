@@ -43,6 +43,14 @@
         <vault.package.version>${project.version}</vault.package.version>
         <vault.package.group>day/cq63/testing</vault.package.group>
         <vault.package.company>Adobe Systems</vault.package.company>
+        <aem.host>localhost</aem.host>
+        <aem.port>4502</aem.port>
+        <aem.publish.host>localhost</aem.publish.host>
+        <aem.publish.port>4503</aem.publish.port>
+        <sling.user>admin</sling.user>
+        <sling.password>admin1</sling.password>
+        <vault.user>admin</vault.user>
+        <vault.password>admin1</vault.password>
     </properties>
 
     <!-- ====================================================================== -->
