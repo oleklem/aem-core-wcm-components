@@ -35,6 +35,14 @@
 
     <properties>
         <jacoco.data.file>${project.build.directory}/jacoco.exec</jacoco.data.file>
+        <aem.host>localhost</aem.host>
+        <aem.port>4502</aem.port>
+        <aem.publish.host>localhost</aem.publish.host>
+        <aem.publish.port>4503</aem.publish.port>
+        <sling.user>admin</sling.user>
+        <sling.password>admin1</sling.password>
+        <vault.user>admin</vault.user>
+        <vault.password>admin1</vault.password>
     </properties>
 
     <build>
