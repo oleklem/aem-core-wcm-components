@@ -77,5 +77,4 @@
         <module>examples</module>
         <module>extensions/amp</module>
     </modules>
-
 </project>
